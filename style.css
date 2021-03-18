@@ -1032,13 +1032,10 @@ textarea.materialize-textarea {
   display: inline;
   float: left;
   width: 100%;
-}
-
-
-.contact-map iframe{
   border-radius: 4px;
   margin-bottom: -5px;
 }
+
 
 
 .footer-bottom{
